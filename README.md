@@ -210,26 +210,40 @@ Public claim worth defending: the project now has a real systems result and an a
 ## Current project structure
 
 ```
-app/
-  Main.hs           -- CLI entry point and concurrent document compression
-
-src/Faithful/
-  Core.hs           -- Memory (Exact | Approx), Anchor, Chunk, Provenance
-  Anchor.hs         -- Anchor extraction (numbers, IDs, quotes, code, negations)
-  Strategy.hs       -- Compression strategies and combinators
-  Expansion.hs      -- Selective expansion engine (WIP)
-  Tokenizer.hs      -- Persistent Python tokenizer bridge and batch token counting
-
-test/
-  Properties.hs     -- QuickCheck: classification coverage, anchor preservation
-
-scripts/
-  eval.py           -- Answer equivalence evaluation harness
-
-docs/
-  THESIS.md         -- Research claim + falsification ablations
-  BENCHMARK_MATRIX.md -- Datasets, methods, metrics
-  WEEK1_PLAN.md     -- First-week implementation plan
+.
+├─ app/
+│  └─ Main.hs                   -- CLI entry point and concurrent document compression
+├─ src/Faithful/
+│  ├─ Core.hs                   -- Memory (Exact | Approx), Anchor, Chunk, Provenance
+│  ├─ Anchor.hs                 -- Anchor extraction (numbers, IDs, quotes, code, negations)
+│  ├─ Strategy.hs               -- Compression strategies and combinators
+│  ├─ Expansion.hs              -- Selective expansion engine (WIP)
+│  └─ Tokenizer.hs              -- Python tokenizer bridge and batch token counting
+├─ test/
+│  ├─ Properties.hs             -- QuickCheck classification and retention properties
+│  └─ data/                     -- Dataset manifests + raw/processed benchmark corpora
+├─ scripts/
+│  ├─ run_benchmark.py          -- End-to-end benchmark orchestrator
+│  ├─ eval.py                   -- Answer-equivalence evaluator
+│  ├─ report.py                 -- Benchmark summary aggregation
+│  ├─ prepare_datasets.py       -- Dataset sourcing/prep pipeline
+│  ├─ bootstrap.ps1             -- Native setup bootstrap
+│  └─ native-env.ps1            -- Reusable native env loader
+├─ docs/
+│  ├─ THESIS.md                 -- Research claim + falsification framing
+│  ├─ BENCHMARK_MATRIX.md       -- Benchmark plan + measured snapshot
+│  ├─ PROJECT_STATUS_MATRIX.md  -- Achieved vs pending status matrix
+│  ├─ DATASET_SOURCING.md       -- Dataset sourcing and traceability
+│  └─ WEEK1_PLAN.md             -- Original implementation plan
+├─ results/                     -- Compressed outputs + evaluation artifacts
+├─ .env.example                 -- Local environment variable template
+├─ cabal.project                -- Cabal project config
+├─ faithful-compress.cabal      -- Package definition
+├─ Dockerfile                   -- Container image definition
+├─ docker-compose.yml           -- Container workflow
+├─ requirements-dev.txt         -- Python development dependencies
+├─ README.md                    -- This file
+└─ LICENSE
 ```
 
 ## License
