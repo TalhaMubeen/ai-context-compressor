@@ -16,6 +16,15 @@ __pycache__/
 **/dist-newstyle/
 **/.stack-work/
 **/dist/
+.hie/
+.ghc.environment.*
+coverage/
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.chi
+*.chs.h
 
 # Node
 node_modules/
@@ -23,6 +32,10 @@ node_modules/
 # Logs and temp
 *.log
 tmp/
+
+# Environment and generated outputs
+.env
+results/
 
 # Archives / installers / binaries
 *.zip
