@@ -1,0 +1,14 @@
+dist-newstyle
+.stack-work
+.hie
+.git
+.gitignore
+results
+.venv
+__pycache__
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.chi
+*.chs.h

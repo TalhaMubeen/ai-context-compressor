@@ -1,0 +1,218 @@
+{"doc_id": "D6_sec_001_aapl", "question": "What company does this filing section belong to?", "gold_answer": "Apple Inc.", "gold_anchors": ["Apple Inc."]}
+{"doc_id": "D6_sec_001_aapl", "question": "On what date was this 10-K filed?", "gold_answer": "2023-11-03", "gold_anchors": ["2023-11-03"]}
+{"doc_id": "D6_sec_001_aapl", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_001_aapl", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "does not", "gold_anchors": ["does not"]}
+{"doc_id": "D6_sec_001_aapl", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "37%", "gold_anchors": ["37%"]}
+{"doc_id": "D6_sec_002_msft", "question": "What company does this filing section belong to?", "gold_answer": "MICROSOFT CORP", "gold_anchors": ["MICROSOFT CORP"]}
+{"doc_id": "D6_sec_002_msft", "question": "On what date was this 10-K filed?", "gold_answer": "2023-07-27", "gold_anchors": ["2023-07-27"]}
+{"doc_id": "D6_sec_002_msft", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 7 Management Discussion and Analysis", "gold_anchors": ["Item 7 Management Discussion and Analysis"]}
+{"doc_id": "D6_sec_002_msft", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_002_msft", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$150", "gold_anchors": ["$150"]}
+{"doc_id": "D6_sec_003_amzn", "question": "What company does this filing section belong to?", "gold_answer": "AMAZON COM INC", "gold_anchors": ["AMAZON COM INC"]}
+{"doc_id": "D6_sec_003_amzn", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-03", "gold_anchors": ["2023-02-03"]}
+{"doc_id": "D6_sec_003_amzn", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_003_amzn", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_003_amzn", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "2023-02-03", "gold_anchors": ["2023-02-03"]}
+{"doc_id": "D6_sec_004_xom", "question": "What company does this filing section belong to?", "gold_answer": "EXXON MOBIL CORP", "gold_anchors": ["EXXON MOBIL CORP"]}
+{"doc_id": "D6_sec_004_xom", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-22", "gold_anchors": ["2023-02-22"]}
+{"doc_id": "D6_sec_004_xom", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_004_xom", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_004_xom", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$129", "gold_anchors": ["$129"]}
+{"doc_id": "D6_sec_005_cvx", "question": "What company does this filing section belong to?", "gold_answer": "CHEVRON CORP", "gold_anchors": ["CHEVRON CORP"]}
+{"doc_id": "D6_sec_005_cvx", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-23", "gold_anchors": ["2023-02-23"]}
+{"doc_id": "D6_sec_005_cvx", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_005_cvx", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "does not", "gold_anchors": ["does not"]}
+{"doc_id": "D6_sec_005_cvx", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "2023-02-23", "gold_anchors": ["2023-02-23"]}
+{"doc_id": "D6_sec_006_pfe", "question": "What company does this filing section belong to?", "gold_answer": "PFIZER INC", "gold_anchors": ["PFIZER INC"]}
+{"doc_id": "D6_sec_006_pfe", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-23", "gold_anchors": ["2023-02-23"]}
+{"doc_id": "D6_sec_006_pfe", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_006_pfe", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "cannot", "gold_anchors": ["cannot"]}
+{"doc_id": "D6_sec_006_pfe", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$88", "gold_anchors": ["$88"]}
+{"doc_id": "D6_sec_007_mrk", "question": "What company does this filing section belong to?", "gold_answer": "Merck & Co., Inc.", "gold_anchors": ["Merck & Co., Inc."]}
+{"doc_id": "D6_sec_007_mrk", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-24", "gold_anchors": ["2023-02-24"]}
+{"doc_id": "D6_sec_007_mrk", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_007_mrk", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "does not", "gold_anchors": ["does not"]}
+{"doc_id": "D6_sec_007_mrk", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$4", "gold_anchors": ["$4"]}
+{"doc_id": "D6_sec_008_unh", "question": "What company does this filing section belong to?", "gold_answer": "UNITEDHEALTH GROUP INC", "gold_anchors": ["UNITEDHEALTH GROUP INC"]}
+{"doc_id": "D6_sec_008_unh", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-24", "gold_anchors": ["2023-02-24"]}
+{"doc_id": "D6_sec_008_unh", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_008_unh", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "do not", "gold_anchors": ["do not"]}
+{"doc_id": "D6_sec_008_unh", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$20", "gold_anchors": ["$20"]}
+{"doc_id": "D6_sec_009_cat", "question": "What company does this filing section belong to?", "gold_answer": "CATERPILLAR INC", "gold_anchors": ["CATERPILLAR INC"]}
+{"doc_id": "D6_sec_009_cat", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-15", "gold_anchors": ["2023-02-15"]}
+{"doc_id": "D6_sec_009_cat", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_009_cat", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "do not", "gold_anchors": ["do not"]}
+{"doc_id": "D6_sec_009_cat", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$59.427", "gold_anchors": ["$59.427"]}
+{"doc_id": "D6_sec_010_wmt", "question": "What company does this filing section belong to?", "gold_answer": "Walmart Inc.", "gold_anchors": ["Walmart Inc."]}
+{"doc_id": "D6_sec_010_wmt", "question": "On what date was this 10-K filed?", "gold_answer": "2023-03-17", "gold_anchors": ["2023-03-17"]}
+{"doc_id": "D6_sec_010_wmt", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_010_wmt", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_010_wmt", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "93%", "gold_anchors": ["93%"]}
+{"doc_id": "D6_sec_011_cost", "question": "What company does this filing section belong to?", "gold_answer": "COSTCO WHOLESALE CORP /NEW", "gold_anchors": ["COSTCO WHOLESALE CORP /NEW"]}
+{"doc_id": "D6_sec_011_cost", "question": "On what date was this 10-K filed?", "gold_answer": "2023-10-11", "gold_anchors": ["2023-10-11"]}
+{"doc_id": "D6_sec_011_cost", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_011_cost", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "do not", "gold_anchors": ["do not"]}
+{"doc_id": "D6_sec_011_cost", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$60", "gold_anchors": ["$60"]}
+{"doc_id": "D6_sec_012_t", "question": "What company does this filing section belong to?", "gold_answer": "AT&T INC.", "gold_anchors": ["AT&T INC."]}
+{"doc_id": "D6_sec_012_t", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-13", "gold_anchors": ["2023-02-13"]}
+{"doc_id": "D6_sec_012_t", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_012_t", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "cannot", "gold_anchors": ["cannot"]}
+{"doc_id": "D6_sec_012_t", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "2023-02-13", "gold_anchors": ["2023-02-13"]}
+{"doc_id": "D6_sec_013_duk", "question": "What company does this filing section belong to?", "gold_answer": "Duke Energy CORP", "gold_anchors": ["Duke Energy CORP"]}
+{"doc_id": "D6_sec_013_duk", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-27", "gold_anchors": ["2023-02-27"]}
+{"doc_id": "D6_sec_013_duk", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_013_duk", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_013_duk", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "2023-02-27", "gold_anchors": ["2023-02-27"]}
+{"doc_id": "D6_sec_014_nee", "question": "What company does this filing section belong to?", "gold_answer": "NEXTERA ENERGY INC", "gold_anchors": ["NEXTERA ENERGY INC"]}
+{"doc_id": "D6_sec_014_nee", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-17", "gold_anchors": ["2023-02-17"]}
+{"doc_id": "D6_sec_014_nee", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_014_nee", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_014_nee", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "2023-02-17", "gold_anchors": ["2023-02-17"]}
+{"doc_id": "D6_sec_015_f", "question": "What company does this filing section belong to?", "gold_answer": "FORD MOTOR CO", "gold_anchors": ["FORD MOTOR CO"]}
+{"doc_id": "D6_sec_015_f", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-03", "gold_anchors": ["2023-02-03"]}
+{"doc_id": "D6_sec_015_f", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_015_f", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "does not", "gold_anchors": ["does not"]}
+{"doc_id": "D6_sec_015_f", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "28.8%", "gold_anchors": ["28.8%"]}
+{"doc_id": "D6_sec_016_gm", "question": "What company does this filing section belong to?", "gold_answer": "General Motors Co", "gold_anchors": ["General Motors Co"]}
+{"doc_id": "D6_sec_016_gm", "question": "On what date was this 10-K filed?", "gold_answer": "2023-01-31", "gold_anchors": ["2023-01-31"]}
+{"doc_id": "D6_sec_016_gm", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_016_gm", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_016_gm", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$750", "gold_anchors": ["$750"]}
+{"doc_id": "D6_sec_017_ba", "question": "What company does this filing section belong to?", "gold_answer": "BOEING CO", "gold_anchors": ["BOEING CO"]}
+{"doc_id": "D6_sec_017_ba", "question": "On what date was this 10-K filed?", "gold_answer": "2023-01-27", "gold_anchors": ["2023-01-27"]}
+{"doc_id": "D6_sec_017_ba", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_017_ba", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "do not", "gold_anchors": ["do not"]}
+{"doc_id": "D6_sec_017_ba", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$57.0", "gold_anchors": ["$57.0"]}
+{"doc_id": "D6_sec_018_lmt", "question": "What company does this filing section belong to?", "gold_answer": "LOCKHEED MARTIN CORP", "gold_anchors": ["LOCKHEED MARTIN CORP"]}
+{"doc_id": "D6_sec_018_lmt", "question": "On what date was this 10-K filed?", "gold_answer": "2023-01-26", "gold_anchors": ["2023-01-26"]}
+{"doc_id": "D6_sec_018_lmt", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_018_lmt", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "do not", "gold_anchors": ["do not"]}
+{"doc_id": "D6_sec_018_lmt", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$10.8", "gold_anchors": ["$10.8"]}
+{"doc_id": "D6_sec_019_ko", "question": "What company does this filing section belong to?", "gold_answer": "COCA COLA CO", "gold_anchors": ["COCA COLA CO"]}
+{"doc_id": "D6_sec_019_ko", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-21", "gold_anchors": ["2023-02-21"]}
+{"doc_id": "D6_sec_019_ko", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_019_ko", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_019_ko", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "$3.3", "gold_anchors": ["$3.3"]}
+{"doc_id": "D6_sec_020_pep", "question": "What company does this filing section belong to?", "gold_answer": "PEPSICO INC", "gold_anchors": ["PEPSICO INC"]}
+{"doc_id": "D6_sec_020_pep", "question": "On what date was this 10-K filed?", "gold_answer": "2023-02-09", "gold_anchors": ["2023-02-09"]}
+{"doc_id": "D6_sec_020_pep", "question": "Which filing section is shown in this excerpt?", "gold_answer": "Item 1A Risk Factors", "gold_anchors": ["Item 1A Risk Factors"]}
+{"doc_id": "D6_sec_020_pep", "question": "Which exact negation phrase appears in this filing section?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_sec_020_pep", "question": "Which exact numeric or percentage anchor appears in this filing section?", "gold_answer": "39%", "gold_anchors": ["39%"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "What company is named in this complaint?", "gold_answer": "AmeriHome Mortgage Company, LLC", "gold_anchors": ["AmeriHome Mortgage Company, LLC"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "did not", "gold_anchors": ["did not"]}
+{"doc_id": "D6_cfpb_001_8086184", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "What company is named in this complaint?", "gold_answer": "CrossCountry Mortgage LLC", "gold_anchors": ["CrossCountry Mortgage LLC"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_002_8086068", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$3900.00", "gold_anchors": ["$3900.00"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "What company is named in this complaint?", "gold_answer": "STL HOLDING COMPANY, LLC", "gold_anchors": ["STL HOLDING COMPANY, LLC"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "What issue is recorded for this complaint?", "gold_answer": "Applying for a mortgage or refinancing an existing mortgage", "gold_anchors": ["Applying for a mortgage or refinancing an existing mortgage"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_003_8085889", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "What company is named in this complaint?", "gold_answer": "NAVY FEDERAL CREDIT UNION", "gold_anchors": ["NAVY FEDERAL CREDIT UNION"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "What issue is recorded for this complaint?", "gold_answer": "Applying for a mortgage or refinancing an existing mortgage", "gold_anchors": ["Applying for a mortgage or refinancing an existing mortgage"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_004_8085748", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_005_8084925", "question": "What company is named in this complaint?", "gold_answer": "Shellpoint Partners, LLC", "gold_anchors": ["Shellpoint Partners, LLC"]}
+{"doc_id": "D6_cfpb_005_8084925", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_005_8084925", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_005_8084925", "question": "What issue is recorded for this complaint?", "gold_answer": "Closing on a mortgage", "gold_anchors": ["Closing on a mortgage"]}
+{"doc_id": "D6_cfpb_005_8084925", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "What company is named in this complaint?", "gold_answer": "MIDFIRST BANK", "gold_anchors": ["MIDFIRST BANK"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "On what date was this complaint received?", "gold_answer": "2023-12-31T12:00:00-05:00", "gold_anchors": ["2023-12-31T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "What issue is recorded for this complaint?", "gold_answer": "Struggling to pay mortgage", "gold_anchors": ["Struggling to pay mortgage"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "never", "gold_anchors": ["never"]}
+{"doc_id": "D6_cfpb_006_8082138", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "What company is named in this complaint?", "gold_answer": "PLANET HOME LENDING, LLC", "gold_anchors": ["PLANET HOME LENDING, LLC"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "did not", "gold_anchors": ["did not"]}
+{"doc_id": "D6_cfpb_007_8083375", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$200.00", "gold_anchors": ["$200.00"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "What company is named in this complaint?", "gold_answer": "WELLS FARGO & COMPANY", "gold_anchors": ["WELLS FARGO & COMPANY"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "What issue is recorded for this complaint?", "gold_answer": "Applying for a mortgage or refinancing an existing mortgage", "gold_anchors": ["Applying for a mortgage or refinancing an existing mortgage"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_008_8083137", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "What company is named in this complaint?", "gold_answer": "Freedom Mortgage Company", "gold_anchors": ["Freedom Mortgage Company"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "What issue is recorded for this complaint?", "gold_answer": "Applying for a mortgage or refinancing an existing mortgage", "gold_anchors": ["Applying for a mortgage or refinancing an existing mortgage"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "did not", "gold_anchors": ["did not"]}
+{"doc_id": "D6_cfpb_009_8083122", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "What company is named in this complaint?", "gold_answer": "Shellpoint Partners, LLC", "gold_anchors": ["Shellpoint Partners, LLC"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "never", "gold_anchors": ["never"]}
+{"doc_id": "D6_cfpb_010_8083104", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_011_8083085", "question": "What company is named in this complaint?", "gold_answer": "Freedom Mortgage Company", "gold_anchors": ["Freedom Mortgage Company"]}
+{"doc_id": "D6_cfpb_011_8083085", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_011_8083085", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_011_8083085", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_011_8083085", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "What company is named in this complaint?", "gold_answer": "NEW YORK COMMUNITY BANCORP INC", "gold_anchors": ["NEW YORK COMMUNITY BANCORP INC"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "What issue is recorded for this complaint?", "gold_answer": "Incorrect information on your report", "gold_anchors": ["Incorrect information on your report"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_012_8083003", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "What company is named in this complaint?", "gold_answer": "Freedom Mortgage Company", "gold_anchors": ["Freedom Mortgage Company"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "did not", "gold_anchors": ["did not"]}
+{"doc_id": "D6_cfpb_013_8082876", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "What company is named in this complaint?", "gold_answer": "NAVY FEDERAL CREDIT UNION", "gold_anchors": ["NAVY FEDERAL CREDIT UNION"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_014_8082873", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$31.00", "gold_anchors": ["$31.00"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "What company is named in this complaint?", "gold_answer": "WELLS FARGO & COMPANY", "gold_anchors": ["WELLS FARGO & COMPANY"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "What issue is recorded for this complaint?", "gold_answer": "Closing on a mortgage", "gold_anchors": ["Closing on a mortgage"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_015_8082833", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$6200.00", "gold_anchors": ["$6200.00"]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "What company is named in this complaint?", "gold_answer": "Mr. Cooper Group Inc.", "gold_anchors": ["Mr. Cooper Group Inc."]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_016_8082785", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "What company is named in this complaint?", "gold_answer": "CARRINGTON MORTGAGE SERVICES, LLC", "gold_anchors": ["CARRINGTON MORTGAGE SERVICES, LLC"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "What issue is recorded for this complaint?", "gold_answer": "Struggling to pay mortgage", "gold_anchors": ["Struggling to pay mortgage"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_017_8082484", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$8000.00", "gold_anchors": ["$8000.00"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "What company is named in this complaint?", "gold_answer": "WELLS FARGO & COMPANY", "gold_anchors": ["WELLS FARGO & COMPANY"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_018_8080158", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$8000.00", "gold_anchors": ["$8000.00"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "What company is named in this complaint?", "gold_answer": "Freedom Mortgage Company", "gold_anchors": ["Freedom Mortgage Company"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "What issue is recorded for this complaint?", "gold_answer": "Struggling to pay mortgage", "gold_anchors": ["Struggling to pay mortgage"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "never", "gold_anchors": ["never"]}
+{"doc_id": "D6_cfpb_019_8080024", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "2023", "gold_anchors": ["2023"]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "What company is named in this complaint?", "gold_answer": "Mr. Cooper Group Inc.", "gold_anchors": ["Mr. Cooper Group Inc."]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "What financial product is involved in this complaint?", "gold_answer": "Mortgage", "gold_anchors": ["Mortgage"]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "On what date was this complaint received?", "gold_answer": "2023-12-30T12:00:00-05:00", "gold_anchors": ["2023-12-30T12:00:00-05:00"]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "What issue is recorded for this complaint?", "gold_answer": "Trouble during payment process", "gold_anchors": ["Trouble during payment process"]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "Which exact negation phrase appears in this complaint narrative?", "gold_answer": "not", "gold_anchors": ["not"]}
+{"doc_id": "D6_cfpb_020_8079662", "question": "Which exact numeric or monetary anchor appears in this complaint record?", "gold_answer": "$150000.00", "gold_anchors": ["$150000.00"]}

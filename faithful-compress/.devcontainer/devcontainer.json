@@ -1,0 +1,15 @@
+{
+  "name": "faithful-compress",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "faithful-dev",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "haskell.haskell",
+        "ms-python.python"
+      ]
+    }
+  },
+  "postCreateCommand": "cabal update && python3 -m pip install -r requirements-dev.txt"
+}

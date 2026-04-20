@@ -1,0 +1,21 @@
+services:
+  faithful-dev:
+    build:
+      context: .
+      target: dev
+    working_dir: /workspace
+    command: bash
+    tty: true
+    stdin_open: true
+    environment:
+      CABAL_DIR: /root/.cabal
+    volumes:
+      - .:/workspace
+      - cabal-store:/root/.cabal
+      - ghc-store:/root/.ghc
+      - stack-store:/root/.stack
+
+volumes:
+  cabal-store:
+  ghc-store:
+  stack-store:
