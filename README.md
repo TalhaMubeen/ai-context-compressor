@@ -31,6 +31,7 @@ The strongest current claim is about performance and auditability, not about uni
 See [`docs/THESIS.md`](docs/THESIS.md) for the research claim and falsification ablations.
 See [`docs/BENCHMARK_MATRIX.md`](docs/BENCHMARK_MATRIX.md) for the evaluation plan.
 See [`docs/WEEK1_PLAN.md`](docs/WEEK1_PLAN.md) for the concrete first-week implementation plan.
+See [`docs/ROADMAP_NEXT.md`](docs/ROADMAP_NEXT.md) for the milestone plan with metrics and exit criteria.
 
 ## Design ideas (under evaluation)
 
